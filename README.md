@@ -48,7 +48,7 @@ This project is a React-based calendar application that allows users to view, ad
 
 ## Live Demo
 
-(https://your-demo-link-here.com)
+(https://gray-scientific-assignment.vercel.app/)
 
 ## Getting Started
 
