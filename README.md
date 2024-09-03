@@ -20,7 +20,7 @@ This project is a React-based calendar application that allows users to view, ad
 - **Routing**: Uses React Router for navigation between views.
 - **Styling**: Employs CSS modules, styled-components, or a CSS-in-JS library for responsive design.
 - **Error Handling**: Provides user feedback for errors.
-- **Deployment**: Application is deployed using Vercel, Netlify, or GitHub Pages.
+- **Deployment**: Application is deployed using Vercel.
 
 ## Additional Requirements
 
@@ -59,7 +59,7 @@ This project is a React-based calendar application that allows users to view, ad
 
 ## Deployment
 
-This application is deployed using [Vercel/Netlify]. The deployment process is automated through the CI/CD pipeline.
+This application is deployed using [Vercel]. The deployment process is automated through the CI/CD pipeline.
 
 ## Contributing
 
