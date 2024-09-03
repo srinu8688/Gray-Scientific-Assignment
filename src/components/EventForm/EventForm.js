@@ -69,7 +69,7 @@ const EventForm = () => {
         placeholder="Event Description"
       />
       <button type="submit">{id ? 'Update Event' : 'Add Event'}</button>
-      <button type="button" onClick={() => navigate('/')}>Cancel</button>
+      <button type="button" className="bg-color" onClick={() => navigate('/')}>Cancel</button>
     </form>
   );
 };

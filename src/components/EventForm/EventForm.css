@@ -22,7 +22,7 @@
     font-size: 16px;
   }
   
-  .event-form button:hover {
-    background-color: #45a049;
-  }
   
+  .bg-color{
+    background-color: red !important;
+  }
